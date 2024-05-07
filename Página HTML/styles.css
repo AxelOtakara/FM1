@@ -1,0 +1,83 @@
+h1{ color:#B6110B;
+    font-family:'Exo 2', sans-serif;
+    font-size: 45px;
+}
+.contenedor{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background-color:rgba(217, 223, 218, 0.802);
+    align-items: center;
+    padding: 1px;
+    margin-bottom: 35px;
+}
+.imagen{
+    width: 250x;
+    height: 175px;
+}
+.tittle{
+    font-family:'Exo 2', sans-serif;
+    color: #11382e;
+    background-color: rgba(0, 0, 0, 0.302) ;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+body{
+background-image: url(Red-Bull.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.box{
+    background-color: transparent;
+    width:100vw;
+    display: flex;
+    justify-content: space-around;
+    }
+
+
+    
+.nav{
+    border: 2px;
+    padding: 5px;
+ background-color: rgba(0, 0, 0, 0.402); 
+ height: 200px;
+ width:470px;
+ display: flex;
+ justify-content: center;
+ text-align: center;
+ align-items: center ;
+}
+.cont2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.links{
+    display: flex;
+    align-items: baseline;
+    gap: 20px; 
+    color: #ffffff;
+}
+p{                                                  
+font-family: 'Exo 2', sans-serif;
+color:   rgb(217, 223, 218);
+text-align: center;
+line-height: 20px
+}
+footer{
+    font-family:'Exo 2', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #11382e;
+    margin-top: 100px;
+}
+h4{
+    font-size: x-large;
+}
+h3{
+    font-family: 'Exo 2', sans-serif;
+    color: #ffffffff;
+}
